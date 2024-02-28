@@ -1,0 +1,70 @@
+body{margin: 0;}
+.header-title{ margin: 20px 242px;
+    font-family: "Gidugu", sans-serif;
+    font-size: 100px;
+ font-weight: 400;
+ margin-left: 100px;
+ margin-top: 17px;
+ color: aliceblue;
+}
+.header{background-image: url(bg.jpg);
+height: fit-content;
+    height: 130vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-subtitle{ 
+    font-family: "Jaldi", sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: aliceblue;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+.header-theme{
+    font-family: "Jaldi", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.header-themem{
+    font-family: "Jaldi", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    color: aliceblue;
+    margin-left: 110px;
+    margin-top: 0px;
+}
+.main-theme{ 
+    font-family: "Jaldi", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-right: 750px;
+    text-align: center;
+}
+.main-theme1{ 
+    font-family: "Jaldi", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: aliceblue;
+    
+    margin-right: 750px;
+    text-align: center;
+}
+.main-theme2{ 
+    font-family: "Jaldi", sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    color: aliceblue;
+    
+    margin-right: 750px;
+    text-align: center;
+}
+.insta{
+    margin-right: 100px;
+}
