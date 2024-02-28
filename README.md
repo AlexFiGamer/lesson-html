@@ -1,0 +1,8 @@
+![video-818 1](https://github.com/AlexFiGamer/lesson-html/assets/160783294/d971402c-f0a0-4b37-a0c0-456725cebbb1)
+![video](https://github.com/AlexFiGamer/lesson-html/assets/160783294/1eb69e0f-8881-4f1d-bc9c-e12e3b5b3111)
+![logo video](https://github.com/AlexFiGamer/lesson-html/assets/160783294/c38c07bf-2354-4be6-8887-83f8cdf0b13b)
+![instagram_1384015 1](https://github.com/AlexFiGamer/lesson-html/assets/160783294/5b19e609-66cc-43d5-9c46-c81e2645ece0)
+![instagram_1384015 (1)](https://github.com/AlexFiGamer/lesson-html/assets/160783294/46a3bcfb-6901-4f2c-b0c4-330d71f4ffd1)
+![instag](https://github.com/AlexFiGamer/lesson-html/assets/160783294/08621422-31a5-4e93-9278-d223f650bbf1)
+![insta](https://github.com/AlexFiGamer/lesson-html/assets/160783294/452b0c46-8509-4a94-8902-4679899e763d)
+![bg](https://github.com/AlexFiGamer/lesson-html/assets/160783294/f1898dd7-5b91-43ee-8f6a-2159501848be)
